@@ -2,4 +2,4 @@
 simple chess game
 
 
-![](http://visit.parselecom.com/Api/Visit/25/E4A010)
+![](http://visit.parselecom.com/Api/Visit/glad-tidings/Chess/E4A010)
